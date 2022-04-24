@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.uni-weimar.de/medien/webis/research/corpora/pan-pc-09/document.xsd" reference="source-document00725.txt">
+  <feature name="project-gutenberg" etext_number="12368" url="http://www.gutenberg.org/files/12368/12368-8.txt"/>
+  <feature name="language" value="en" />
+</document>
+
