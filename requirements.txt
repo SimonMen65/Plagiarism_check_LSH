@@ -1,0 +1,6 @@
+pandas
+datasketch
+nltk
+matplotlib
+sklearn
+pickle
